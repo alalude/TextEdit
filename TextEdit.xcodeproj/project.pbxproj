@@ -83,8 +83,6 @@
 		E39D09AB16FD998E00F4721A /* TextEdit */ = {
 			isa = PBXGroup;
 			children = (
-				E39D09B416FD998E00F4721A /* TextEditAppDelegate.h */,
-				E39D09B516FD998E00F4721A /* TextEditAppDelegate.m */,
 				E39D09BD16FD998E00F4721A /* MainStoryboard.storyboard */,
 				E39D09C016FD998E00F4721A /* TextEditViewController.h */,
 				E39D09C116FD998E00F4721A /* TextEditViewController.m */,
@@ -96,6 +94,8 @@
 		E39D09AC16FD998E00F4721A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E39D09B416FD998E00F4721A /* TextEditAppDelegate.h */,
+				E39D09B516FD998E00F4721A /* TextEditAppDelegate.m */,
 				E39D09AD16FD998E00F4721A /* TextEdit-Info.plist */,
 				E39D09AE16FD998E00F4721A /* InfoPlist.strings */,
 				E39D09B116FD998E00F4721A /* main.m */,
